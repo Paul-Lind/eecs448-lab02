@@ -36,7 +36,7 @@ class LinkedList
 	*   @post None.
 	*   @return inthe number of elements in the list.
 	*/	
-	int size() const;
+	T size() const;
 
 	/** @pre the value is a valid T.
 	*   @post none.
